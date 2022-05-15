@@ -8,5 +8,5 @@ https://www.javatpoint.com/vigenere-cipher#:~:text=The%20vigenere%20cipher%20is%
 1. Doesnt like spaces
 
 # Usage
-./Vigenere <PlainText/ EncryptedText> <Key> encrypt/decrypt
+./Vigenere <PlainText/ EncryptedText> "<Key>" encrypt/decrypt
   
